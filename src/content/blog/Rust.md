@@ -2,6 +2,7 @@
 title: Rust 学习
 description: 自用,整理常用语法的档案
 pubDatetime: 2023-12-23 14:59:59
+slug: Rust 学习
 tags: 
     - Rust
 ---
